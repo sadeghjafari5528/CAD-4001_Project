@@ -1,0 +1,30 @@
+Running: G:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/co_processor_test_isim_beh.exe -prj E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/co_processor_test_beh.prj work.co_processor_test 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/MantissaDivision.vhd" into library work
+Parsing VHDL file "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/Floating_Point.vhd" into library work
+Parsing VHDL file "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/MUL.vhd" into library work
+Parsing VHDL file "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/DIVIDE.vhd" into library work
+Parsing VHDL file "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/ADD_SUB.vhd" into library work
+Parsing VHDL file "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/Co_processor.vhd" into library work
+Parsing VHDL file "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/co_processor_test.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package floatpt
+Compiling architecture arch of entity FPP_ADD_SUB [fpp_add_sub_default]
+Compiling architecture arch of entity MantissaDivision [\MantissaDivision(24,8)\]
+Compiling architecture arch of entity FPP_DIVIDE [fpp_divide_default]
+Compiling architecture arch of entity FPP_MULT [fpp_mult_default]
+Compiling architecture structral of entity Co_processor [co_processor_default]
+Compiling architecture behavior of entity co_processor_test
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 15 VHDL Units
+Built simulation executable E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/co_processor_test_isim_beh.exe
+Fuse Memory Usage: 37068 KB
+Fuse CPU Usage: 796 ms

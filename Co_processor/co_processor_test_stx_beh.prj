@@ -1,0 +1,7 @@
+vhdl isim_temp "MantissaDivision.vhd"
+vhdl isim_temp "Floating_Point.vhd"
+vhdl isim_temp "MUL.vhd"
+vhdl isim_temp "DIVIDE.vhd"
+vhdl isim_temp "ADD_SUB.vhd"
+vhdl isim_temp "Co_processor.vhd"
+vhdl isim_temp "co_processor_test.vhd"

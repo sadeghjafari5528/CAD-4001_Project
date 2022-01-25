@@ -8,5 +8,8 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/co_processor_test.vhd&quot; into library work</arg>
+</msg>
+
 </messages>
 

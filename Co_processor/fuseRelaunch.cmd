@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/co_processor_test_isim_beh.exe" -prj "E:/sadegh/iust/term7/Cources/CAD/project/CAD-4001_Project/Co_processor/co_processor_test_beh.prj" "work.co_processor_test" 

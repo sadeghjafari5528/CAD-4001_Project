@@ -1,0 +1,7 @@
+vhdl work "MantissaDivision.vhd"
+vhdl work "Floating_Point.vhd"
+vhdl work "MUL.vhd"
+vhdl work "DIVIDE.vhd"
+vhdl work "ADD_SUB.vhd"
+vhdl work "Co_processor.vhd"
+vhdl work "co_processor_test.vhd"

@@ -1,0 +1,3 @@
+vhdl isim_temp "Floating_Point.vhd"
+vhdl isim_temp "ADD_SUB.vhd"
+vhdl isim_temp "ADD_test.vhd"
